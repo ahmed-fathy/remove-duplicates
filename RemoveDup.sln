@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDup", "RemoveDup.csproj", "{EBCDF352-87CF-4274-B6A4-55BCAD6BFFE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBCDF352-87CF-4274-B6A4-55BCAD6BFFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCDF352-87CF-4274-B6A4-55BCAD6BFFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCDF352-87CF-4274-B6A4-55BCAD6BFFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCDF352-87CF-4274-B6A4-55BCAD6BFFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A76776D-0399-4782-BD41-FEFC4C5B6100}
+	EndGlobalSection
+EndGlobal
