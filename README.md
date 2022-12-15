@@ -19,7 +19,7 @@ Select the input file, output file and click proceed.
 ```
 RemoveDup.exe inputFilePath 
 ```
-The output file will be at the same directory as input file. The output file will have name prefix "_NoDuplicates", such as myfile_NoDuplicates.txt.
+The output file will be created at the same directory path as input file. The output file will have name prefix "_NoDuplicates", such as myfile_NoDuplicates.txt.
 
 You can also specify the output file name and path:
 ```
